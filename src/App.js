@@ -10,7 +10,6 @@ const rules = {
   are: 'art',
   yes: 'aye',
   oblged: 'beund',
-  soon: 'by and by',
   thought: 'conceit',
   advice: 'counsel',
   order: 'decree',
